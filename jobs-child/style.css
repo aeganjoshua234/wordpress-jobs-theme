@@ -1,0 +1,8 @@
+/*
+Theme Name: Jobs Child
+Template: twentytwentyone
+Description: Child theme of Twenty Twenty-One adding a "Jobs" custom post type.
+Version: 1.0
+*/
+.job-meta { list-style: none; padding: 0; margin: 1rem 0; }
+.job-meta li { margin-bottom: .25rem; }
